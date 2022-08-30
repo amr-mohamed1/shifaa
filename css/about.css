@@ -1,0 +1,41 @@
+   .h1{
+    color: rgb(106, 33, 174);
+    font-family: system-ui;
+    font-size: 30px;
+    margin: 30px;
+    text-transform: capitalize;
+
+}
+div p.c{
+    background-color: white;
+    width: 300px;
+    color:black;
+    font-size: large;
+    margin-left: 50px;
+    font-weight: bold;
+    font-family: system-ui;
+}
+
+div img{
+    width: 400px;
+    height: 400px;
+    align-items: center;
+    margin-left: 400px;
+margin-top: -50px;
+    
+}
+.t p{
+    background-color: rgb(183, 172, 192);
+    width: 150px;
+    height: 80px;
+    text-align: center;
+    margin-left: 260px;
+    margin-top: 40px;
+    font-size: large;
+    padding-top: 10px;
+    margin-bottom: -70px;
+    font-family: system-ui;
+    text-transform: capitalize;
+    
+    
+}
